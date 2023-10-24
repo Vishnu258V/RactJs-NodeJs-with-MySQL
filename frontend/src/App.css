@@ -1,0 +1,128 @@
+
+h1{
+  border: 3px solid rgb(13, 1, 1);
+  font-size: 50px;
+  width:fit-content;
+  background-color: #eeeeeee6;
+  text-align: center;
+  padding: 10px;
+  padding-bottom: 0%;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  color: rgb(7, 54, 17);
+  text-shadow: 0 0 5px #3b4892, 0 0 10px #23518d,
+  0 0 10px #466a99;
+  border-radius: 10px;
+  background-color:  linear-gradient rgb(82, 95, 61), rgb(86, 134, 134),rgb(124, 124, 37);
+
+  }
+
+  p{
+  color: rgb(40, 37, 175);
+  font-size: 20;
+  margin-left: 480px;
+  font-size: 50px;
+  }
+  
+  button {
+  background-color: #926bc4;
+  border: 2px solid rgb(102, 206, 54);
+  color: rgb(252, 252, 252);
+  padding: 20px 50px;
+  text-decoration:rgb(13, 1, 1);
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 30px;
+  font-weight: 600;
+  display: inline-block;
+  box-shadow: 0 0 5px cyan,
+  0 0 25px cyan;
+  }
+  button:hover {
+    box-shadow: 0 0 5px rgb(173, 29, 3),
+    0 0 25px rgb(204, 95, 6),
+    0 0 50px rgb(192, 189, 7),
+    0 0 100px rgb(68, 185, 14),
+    0 0 5px rgb(30, 230, 4);
+  }
+
+
+  
+  label{
+    font-weight: 700;
+    box-sizing: border-box;
+    color: #b95f35;
+    text-align: left;
+    padding: 0.25rem 0;
+    display:block; 
+
+  }
+  
+  img{
+  max-width: 15%;
+  }
+  
+  input {
+    width: 50%;
+  padding: 12px 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  border: 2px solid rgb(224, 189, 30);
+    display: block;
+    align-items: center;
+    color: #224a52;
+ 
+    box-shadow: 0px 5px  rgba(40, 156, 209, 0.781);
+    background-color: rgb(235, 235, 235);
+
+  }
+
+
+  .Login{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    min-height: 100vh;
+    background-image: url('images/pexels-stefan-stefancik-919606.jpg');
+    background-size: cover;
+    border: 1px solid rgb(242, 243, 240);
+    border-radius: 10px;
+    height: fit-content;
+  }
+
+  .SignUp{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    min-height: 100vh;
+    background-image: url('images/csss1.png');
+    background-size: cover;
+    border: 1px solid rgb(242, 243, 240);
+    border-radius: 10px;
+    height: fit-content;
+  }
+
+  .link-btn {
+    background: none;
+    color: rgb(195, 206, 197);
+    text-decoration: underline;
+    font-weight: 600px;
+    cursor: pointer;
+    font-size:20px;
+    padding: 10px 20px;
+
+  }
+
+  h2{
+    color: #224a52;
+    text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,
+             0 0 20px #A5F1FF, 0 0 30px #A5F1FF,
+             0 0 40px #A5F1FF;
+            text-decoration: solid;
+            text-decoration: underline;
+    
+  }
+
+
+  
